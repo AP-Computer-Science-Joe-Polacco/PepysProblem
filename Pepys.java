@@ -17,7 +17,7 @@ public class Pepys
         // e.g. one simulation might be: 1 4 4 2 6 1 (success -- at least one six)
         // e.g. 6 6 2 2 1 2 (success -- at least one six)
         // e.g. 1 2 5 5 3 4 (failure -- no sixes)
-        // return (number of successes) / (number of simulation)
+        // return (number of successes) / (number of simulations)
         return 0.0; // delete this line of code
         
         
@@ -32,9 +32,9 @@ public class Pepys
     public double probAtLeastTwoSixes(int n){
         // TODO
         // e.g. one simulation might be: 1 4 4 2 6 1 6 1 1 1 1 2 (success -- at least two sixes)
-        // e.g. 6 6 2 2 1 2 1 1 1 1 1 6 (success -- at least two siesx)
+        // e.g. 6 6 2 2 1 2 1 1 1 1 1 6 (success -- at least two sixes)
         // e.g. 1 2 5 5 3 4 4 1 2 4 5 6 (failure -- less than two sixes)
-        // return (number of successes) / (number of simulation)
+        // return (number of successes) / (number of simulations)
         return 0.0; // delete this line of code
         
     }
