@@ -8,7 +8,7 @@
  * The Newton–Pepys problem is a probability problem concerning the probability of 
  * throwing sixes from a certain number of dice. In 1693 Samuel Pepys and Isaac Newton
  * corresponded over a problem posed by Pepys (pronunced "peeps") in relation to a wager
- * he planned to make.The problem was:
+ * he planned to make. The problem was:
 
  * Which of the following three propositions has the greatest chance of success?
  * 
