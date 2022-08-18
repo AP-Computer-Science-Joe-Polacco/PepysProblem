@@ -2,7 +2,9 @@
  * Which is more likely: at least one 6 in 6 rolls of a fair die,
  * or at least two 6's in 12 rolls of a fair die?
  * DO NOT solve this as a math problem (you can of course). This is a computation
- * problem. Estimate the probabilities through simulation.
+ * problem. Estimate the probabilities through simulation. If you simply return the 
+ * theoretical/analytical probability calculated mathematically, you will not pass 
+ * the test cases.
  * 
  */
 public class Pepys
@@ -40,7 +42,8 @@ public class Pepys
     }
  
 }
-        
+
+  
         
             
             
