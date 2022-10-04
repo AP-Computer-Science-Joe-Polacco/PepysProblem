@@ -1,3 +1,4 @@
+
 /**
  * Which is more likely: at least one 6 in 6 rolls of a fair die,
  * or at least two 6's in 12 rolls of a fair die?
@@ -42,9 +43,8 @@
 
 import java.util.Scanner;
 
-public class PepysProblem
-{
-    public static void main(String[] args){
+public class PepysMain {
+    public static void main(String[] args) {
         // TODO
     }
 }
