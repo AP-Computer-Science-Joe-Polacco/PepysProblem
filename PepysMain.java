@@ -43,7 +43,7 @@
 
 import java.util.Scanner;
 
-public class PepysMain {
+public class PepysProblem {
     public static void main(String[] args) {
         // TODO
     }
